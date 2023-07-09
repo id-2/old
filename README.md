@@ -1,6 +1,6 @@
 # cursor-codemirror
 
-Hello! This is an old version of [Cursor](https://cursor.so/) based off of the [Codemirror](https://codemirror.net/) text editing component. If you're looking to build your own code editor from the ground-up, this may serve as a useful guide 🙂
+Hello! This is an old version of [Cursor](https://cursor.so/) based off of the [Codemirror](https://codemirror.net/) text editing component. If you're looking to build your own code editor from the ground-up, this may serve as a useful guide 🙂 Cursor is now based on a fork of VSCodium.
 
 <p align="center">
 <a href="https://cursor.so/">
